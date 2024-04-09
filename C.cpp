@@ -30,4 +30,8 @@ public:
     void MC2() {
         cout << "Método MC2() chamado" << endl;
     }
+
+    void MC3() {
+        cout << "Método MC3() chamado" << endl;
+    }
 };
