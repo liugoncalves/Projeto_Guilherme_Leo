@@ -30,9 +30,17 @@ public:
     void MD2() {
         cout << "Método MD2() chamado" << endl;
     }
+    
+    void MD4() {
+        cout << "Método MD4() chamado" << endl;
+    }
 
+<<<<<<< HEAD
     void MD3() {
         cout << "Método MD3() chamado" << endl;
     }
 
 };
+=======
+};
+>>>>>>> 915b0c0ba76d8fa48efaa60c19b690237b42b31f
